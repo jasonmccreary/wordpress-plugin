@@ -97,9 +97,9 @@ See our contact page for details: https://usefathom.com/contact
 
 == Changelog ==
 
-= 3.2.4 =
+### 3.2.4 - August 12, 2024
 
-Add support for latest WordPress version
+Added support for latest WordPress version
 
 ### 3.2.3 - June 27, 2024
 
